@@ -1,0 +1,4 @@
+﻿Load=[Image]
+[Content/Background/Logo]
+EndLoad=[/Image]
+

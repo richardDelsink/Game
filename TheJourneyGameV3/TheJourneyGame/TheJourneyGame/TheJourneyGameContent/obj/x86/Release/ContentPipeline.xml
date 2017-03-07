@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Release\Content\SpriteFont1.xnb</Output>
+      <Time>2014-05-29T19:05:33.9828767+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu.spritefont</Source>
+      <Name>Menu</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Release\Content\Menu.xnb</Output>
+      <Time>2014-05-29T22:13:24.157446+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\Sprites\Cloud.png</Source>
+      <Name>Content\Sprites\Cloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Release\Content\Content\Sprites\Cloud.xnb</Output>
+      <Time>2014-05-22T06:45:46.5299995+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\Sprites\Bang.png</Source>
+      <Name>Content\Sprites\Bang</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Release\Content\Content\Sprites\Bang.xnb</Output>
+      <Time>2014-05-22T02:25:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\Sprites\testfader.png</Source>
+      <Name>Content\Sprites\testfader</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Release\Content\Content\Sprites\testfader.xnb</Output>
+      <Time>2014-05-22T02:25:50.1020352+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\Background\Dummy.png</Source>
+      <Name>Content\Background\Dummy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Release\Content\Content\Background\Dummy.xnb</Output>
+      <Time>2014-05-22T06:19:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\Background\Logo.png</Source>
+      <Name>Content\Background\Logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Release\Content\Content\Background\Logo.xnb</Output>
+      <Time>2014-05-27T13:32:00.0805387+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\Background\image1.png</Source>
+      <Name>Content\Background\image1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Release\Content\Content\Background\image1.xnb</Output>
+      <Time>2014-05-27T14:01:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\Background\image2.png</Source>
+      <Name>Content\Background\image2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Release\Content\Content\Background\image2.xnb</Output>
+      <Time>2014-05-27T14:02:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\Background\Logo1.png</Source>
+      <Name>Content\Background\Logo1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Release\Content\Content\Background\Logo1.xnb</Output>
+      <Time>2014-05-27T14:19:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\Background\null.png</Source>
+      <Name>Content\Background\null</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Release\Content\Content\Background\null.xnb</Output>
+      <Time>2014-05-29T21:10:39.6026482+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\Sprites\cg.png</Source>
+      <Name>Content\Sprites\cg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Release\Content\Content\Sprites\cg.xnb</Output>
+      <Time>2014-06-03T15:23:26.6618578+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\Sprites\test.png</Source>
+      <Name>Content\Sprites\test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Release\Content\Content\Sprites\test.xnb</Output>
+      <Time>2014-06-03T14:53:23+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\Sprites\Hero1.png</Source>
+      <Name>Content\Sprites\Hero1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Release\Content\Content\Sprites\Hero1.xnb</Output>
+      <Time>2014-06-03T15:05:07+02:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\tile.png</Source>
+      <Name>TileSets\tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Release\Content\TileSets\tile.xnb</Output>
+      <Time>2014-06-03T16:58:27+02:00</Time>
+    </Item>
+    <Item>
+      <Source>TileSets\tileset1.png</Source>
+      <Name>TileSets\tileset1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Release\Content\TileSets\tileset1.xnb</Output>
+      <Time>2014-06-03T17:10:16+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGameContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-07T22:22:30.5418977+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

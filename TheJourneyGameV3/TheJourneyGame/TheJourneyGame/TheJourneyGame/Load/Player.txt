@@ -1,0 +1,2 @@
+﻿Load=[Image][Position][Frames][MoveSpeed]
+[Content/Sprites/test][64,512][3,4][150]

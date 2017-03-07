@@ -1,0 +1,8 @@
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGameContent\obj\x86\Debug\TheJourneyGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGameContent\obj\x86\Debug\TheJourneyGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGameContent\obj\x86\Debug\TheJourneyGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGameContent\obj\x86\Debug\TheJourneyGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGameContent\obj\x86\Debug\TheJourneyGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGameContent\obj\x86\Debug\TheJourneyGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGameContent\obj\x86\Debug\TheJourneyGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGameContent\obj\x86\Debug\TheJourneyGameContent.contentprojResolveAssemblyReference.cache

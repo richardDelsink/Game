@@ -1,0 +1,245 @@
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\TheJourneyGame.exe
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\TheJourneyGame.pdb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.exe
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.pdb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Cloud.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Bang.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\testfader.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\Logo.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Cloud.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Bang.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\testfader.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\TheJourneyGame.exe
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\TheJourneyGame.pdb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.csprojResolveAssemblyReference.cache
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.exe
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.pdb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\Logo.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Splash.txt
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Menu.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Menu.txt
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\null.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\cg.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Player.txt
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Hero1.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Tilesets\tile.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Maps\Level1.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Maps\Level1.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Player.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Menu.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Splash.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Menu.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\null.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\cg.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Hero1.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\TileSets\tile.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\menuScreen.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Background.txt
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\controleScreen.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\creditScreen.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky2.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky1.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Background.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\menuScreen.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\controleScreen.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\creditScreen.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky2.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky1.xnb
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Background.txt
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Maps\Level1.txt
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Player.txt
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Menu.txt
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Splash.txt
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Menu.xnb
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Cloud.xnb
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Bang.xnb
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\testfader.xnb
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\Logo.xnb
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\null.xnb
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\cg.xnb
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Hero1.xnb
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\TileSets\tile.xnb
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\menuScreen.xnb
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\controleScreen.xnb
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\creditScreen.xnb
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky.xnb
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky2.xnb
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky1.xnb
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\TheJourneyGame.exe
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\TheJourneyGame.pdb
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.exe
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.pdb
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Enemies.txt
+C:\Users\Richard\Desktop\TheJourneyGame\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\test.xnb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Background.txt
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Enemies.txt
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Maps\Level1.txt
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Player.txt
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Menu.txt
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Splash.txt
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Menu.xnb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Cloud.xnb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Bang.xnb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\testfader.xnb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\Logo.xnb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\null.xnb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\cg.xnb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Hero1.xnb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\TileSets\tile.xnb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\menuScreen.xnb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\controleScreen.xnb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\creditScreen.xnb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky.xnb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky2.xnb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky1.xnb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\test.xnb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Heart.xnb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\TheJourneyGame.exe
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\TheJourneyGame.pdb
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.exe
+C:\Users\Richard\Desktop\TheJourneyGame - kopie\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.pdb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Background.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Enemies.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Maps\Level1.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Player.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Menu.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Splash.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Menu.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Cloud.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Bang.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\testfader.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\Logo.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\null.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\cg.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Hero1.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\TileSets\tile.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\menuScreen.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\controleScreen.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\creditScreen.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky2.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky1.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\test.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Heart.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\TheJourneyGame.exe
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\TheJourneyGame.pdb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.csprojResolveAssemblyReference.cache
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.exe
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV2\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.pdb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Background.txt
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Enemies.txt
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Maps\Level1.txt
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Player.txt
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Menu.txt
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Splash.txt
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Menu.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Cloud.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Bang.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\testfader.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\Logo.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\null.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\cg.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Hero1.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\TileSets\tile.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\menuScreen.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\controleScreen.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\creditScreen.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky2.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky1.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\test.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Heart.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\TheJourneyGame.exe
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\TheJourneyGame.pdb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.exe
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.pdb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\bullet.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\enemy.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\enemy1.xnb
+C:\Users\Richard\Desktop\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\huge.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Background.txt
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Maps\Level1.txt
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Player.txt
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Menu.txt
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Splash.txt
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Enemies.txt
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Menu.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Cloud.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\testfader.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\Logo.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\null.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\TileSets\tile.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\menuScreen.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\controleScreen.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\creditScreen.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky2.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky1.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\test.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Heart.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\enemy.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\enemy1.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\huge.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sound\LW.xnb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sound\LW.wma
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\TheJourneyGame.exe
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\TheJourneyGame.pdb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.exe
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.pdb
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\TheJourneyGame.exe.manifest
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\TheJourneyGame.application
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.exe.manifest
+C:\Users\Richard\Documents\My Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.application
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Background.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Enemies.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Maps\Level1.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Player.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Menu.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Load\Splash.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Menu.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Cloud.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\testfader.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\Logo.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\null.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\TileSets\tile.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\menuScreen.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\controleScreen.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\creditScreen.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky2.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Background\sky1.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\test.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\Heart.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\enemy.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\enemy1.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sprites\huge.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sound\LW.xnb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\Content\Content\Sound\LW.wma
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\TheJourneyGame.exe
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\bin\x86\Debug\TheJourneyGame.pdb
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.csprojResolveAssemblyReference.cache
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.exe
+C:\Users\rich\Dropbox\FHICT\Maatwerk\SE12\Eigenopdracht\Tests\TheJourneyGameV3\TheJourneyGame\TheJourneyGame\TheJourneyGame\obj\x86\Debug\TheJourneyGame.pdb

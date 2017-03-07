@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TheJourneyGame.Animation" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAYCEAAAAAAAAgAgEAKAIBACEAAAABCIAAAQAAACAAQ=</HashCode>
+      <FileName>Animation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.Enemy" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAgAAAAAAAAAAAAAAAAAAIAAAAAAAAAQ=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.Entity" Collapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYCkAwKEIAEIgAgACAAIAQAEAYEAAQEIAQCAAAEAAw=</HashCode>
+      <FileName>Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.FadeAnimation" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAQAAAAAABAEAAAAAAAgAAgAAQAAABAAAAAAAAAkAAQ=</HashCode>
+      <FileName>FadeAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.FileManager" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAIgAAAAAAAAQQ=</HashCode>
+      <FileName>FileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.GameScreen" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQCEAAAAAAAAgAAAAAAAAAAAAAAEAAgAAAAAQAAIAQ=</HashCode>
+      <FileName>GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.InputManager" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAQAAAAAgAAAAAAAAAAAAAAEAAAABAAAABBAAAA=</HashCode>
+      <FileName>InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.Level1" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCEAAAAIAAAgAAAAAAAAAAAAAAAAAEAAAABAAAAgQ=</HashCode>
+      <FileName>Level1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.MenuManager" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUYiEAAAAAAAAgIAAAEQILAAAAQAkAEAgAAAAAAIACQ=</HashCode>
+      <FileName>MenuManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.MenuScreen" Collapsed="true">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAEAAAAAAAAgAAAAAAAAgAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>MenuScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.PlayScreen" Collapsed="true">
+    <Position X="12" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAABAgAAAAAAAAAAAAAAAAABAAAAAAAAAAQ=</HashCode>
+      <FileName>PlayScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.ScreenManager" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQCABAAAgAAgwAAAAAAAAAAAARgCAAoQIAgCAAAAAQ=</HashCode>
+      <FileName>ScreenManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.SplashScreen" Collapsed="true">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAgAAgAAAAAAAEAQAAAAAAAgAAAAAAAQ=</HashCode>
+      <FileName>SplashScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.SSAnimation" Collapsed="true">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAEAAAgAAAAAAAAAAAAgBAACACAAAAAAAAAQAAAAU=</HashCode>
+      <FileName>SSAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.Player" Collapsed="true">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAgAAAwAAAAAAAAAAAAAAAAAAIAAAAAAAAAQ=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.ParticleManager" Collapsed="true">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEBACgAAAAgBAAAAAAAEAAAAAAQAAABAAAA=</HashCode>
+      <FileName>ParticleManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.Particle" Collapsed="true">
+    <Position X="0.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAABAgoAgAAAAAAAAAAAAAAAAAAIAgAAFAAA=</HashCode>
+      <FileName>Particle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.BoundBox" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAQAAgAAAAIAAAACACAAAAAgIA=</HashCode>
+      <FileName>BoundBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.Camera" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAIhAAAAJAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.ControleScreen" Collapsed="true">
+    <Position X="10.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>ControleScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.CreditScreen" Collapsed="true">
+    <Position X="8.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>CreditScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.EntityManager" Collapsed="true">
+    <Position X="11.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAEAAAAAAIAgAAAAAAAAAAAAAAEQAggAEAAAAAAAQ=</HashCode>
+      <FileName>EntityManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.Game1" Collapsed="true">
+    <Position X="13.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEEAAAAAAAwAAAAAAAAAAAAAAAAgAAAAAAAAAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.Layer" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQCAAAACIAAAgAEAAAAAEAAAwgAEAAAgAAAAAAAgAQ=</HashCode>
+      <FileName>Layer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheJourneyGame.Tile" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhQAAAQIEJAAAhAAABAAIMAAAgAAAAEEAAQAAAAAAAA=</HashCode>
+      <FileName>Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

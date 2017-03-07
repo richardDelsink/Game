@@ -1,0 +1,12 @@
+﻿Load=[Level1]
+
+Load=[Image][Position][Frames][MoveSpeed][Range]
+
+[Content/Sprites/enemy][400,544][3,4][80][75]
+[Content/Sprites/enemy1][850,544][3,4][100][200]
+[Content/Sprites/enemy1][1400,544][3,4][100][200]
+[Content/Sprites/enemy][2200,544][3,4][150][300]
+[Content/Sprites/enemy1][2500,160][3,4][150][75]
+[Content/Sprites/huge][4000,319][3,4][200][400]
+
+EndLoad=[Level1]

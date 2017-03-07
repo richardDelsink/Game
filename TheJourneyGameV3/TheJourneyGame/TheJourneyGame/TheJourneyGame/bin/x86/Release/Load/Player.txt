@@ -1,0 +1,2 @@
+﻿Load=[Image][Position]
+[Content/Sprites/cg][0 0]
